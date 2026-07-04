@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```java
-public class Kumara {
+public class Pathum {
 
     String role = "Software Engineering Student";
     String language = "Java";
