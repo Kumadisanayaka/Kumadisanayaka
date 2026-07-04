@@ -67,15 +67,6 @@ public class Kumara {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kumadisanayaka&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -161,7 +152,7 @@ jobs:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Kumadisanayaka/Kumadisanayaka/output/github-contribution-grid-snake-dark.svg"/>
+
 
 </p>
 
