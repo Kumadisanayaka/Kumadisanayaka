@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kumara Dissanayaka
+# Hi 👋, I'm Pathum Dissanayaka
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Object-Oriented+Programming+Enthusiast;Building+Projects+%26+Learning+Every+Day;Welcome+to+my+GitHub!" />
 
