@@ -47,9 +47,6 @@ public class Kumara {
 
 ---
 
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
