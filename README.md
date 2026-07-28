@@ -108,47 +108,14 @@ public class Pathum {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://linkedin.com/in/pathumx">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+
 </p>
 
 ---
-
-# 💡 Developer Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below to generate the snake animation.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Kumadisanayaka
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <p align="center">
 
